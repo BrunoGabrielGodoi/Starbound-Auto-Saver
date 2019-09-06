@@ -1,12 +1,13 @@
+#What is this?
 This is a way to automaticly backup yours Star Bound save files to your choices cloud since strabound doesn't use Steam's cloud save.
 
-INSTRUCTIONS--------
+##INSTRUCTIONS
 
 1- Rename your starbound.exe to starbound1.exe ( The one in your steamapps>common>Starbound>win64 folder)
 2- Copy all the files inside "Automate Files" folder into the same folder. (config.json,starbound.exe and AtraboundAutoSave.exe to win64)
 3- Open the config.json using ,preferably ,Notepad+++ and change the configurations to your liking.
 
-Config.json---------------------
+## Config.json
 
 {
     "Intructions": "Please use DOUBLE SLASHES, don't change source", <- Instuctions
