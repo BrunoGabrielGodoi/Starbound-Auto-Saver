@@ -11,12 +11,12 @@ This is a way to automaticly backup yours Star Bound save files to your choices 
 
 {
 
-    "Intructions": "Please use DOUBLE SLASHES, don't change source",*** <- Instuctions***
+    "Intructions": "Please use DOUBLE SLASHES, don't change source",  <--- Instuctions
     
-    "backupPath": "C:\\Users\\xxxx\\Dropbox",*** <- The path to your cloud folder***
+    "backupPath": "C:\\Users\\xxxx\\Dropbox",  <--- The path to your cloud folder
     
-    "zipName": "StarBoundBackup", ***<- The name of the .zip that will be created ***
+    "zipName": "StarBoundBackup", <--- The name of the .zip that will be created 
     
-    "source": "storage" ***<- The folder where the save is. Don't change this.***
+    "source": "storage" <--- The folder where the save is. Don't change this.
     
 }
